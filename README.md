@@ -4,7 +4,7 @@
 Osama Khaled
 
 ## GitHub Pages
-سيتم إضافته بعد نشر الموقع.
+https://osamakhaledekhzaeq-ai.github.io/cloud-beginner-cicd-pages-OsamaKhaled/
 
 ## كيفية فتح الموقع محليًا
 افتح ملف index.html في أي متصفح ويب.
